@@ -4,3 +4,4 @@ cryxie_libs
 sources.txt
 build
 bin
+local_storage.lua
