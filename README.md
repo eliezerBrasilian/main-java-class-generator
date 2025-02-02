@@ -36,8 +36,7 @@ myproject/
 │               └── example/
 │                   └── myproject/
 │                       └── Main.java
-├── pom.xml
-└── README.md
+
 ```
 
 ## Contributing
